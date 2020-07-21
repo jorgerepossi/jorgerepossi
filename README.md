@@ -1,7 +1,7 @@
 <img align='right' src="https://media0.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=ecf05e47go4nfm1lytex60zcbuc5rwdpm9b2gejhq9t4qvxo&rid=giphy.gif" width="230">
 
-## Hola soy Jo 👨‍
-## Frontend Developer 👨‍💻
+### Hola soy Jo 👨‍
+### Frontend Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-jorge-repossi)](https://www.linkedin.com/in/jorgerepossi/)
 [![](https://img.shields.io/badge/Gmail-jorgerepossi1980%40gmail.com-red)](mailto:jorgerepossi1980010@gmail.com)
