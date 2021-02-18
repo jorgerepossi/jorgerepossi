@@ -15,7 +15,7 @@ const Jo = {
     technologies:{
         backEnd: ["php"],
         fronEnd: ["react", "jquery"],
-        database: ["mySql", "graphql"],
+        database: ["mySql"],
         misc: ["css3", "javascript",  "Firebase"]
     },
     architecture: [  "microservices", "Single page applications"],
