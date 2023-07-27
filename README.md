@@ -13,9 +13,9 @@ const Jo = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["php"],
+        backEnd: ["nest, php"],
         fronEnd: ["react", "jquery"],
-        database: ["mySql"],
+        database: ["mySql", "sequelize"],
         misc: ["css3", "javascript",  "Firebase"]
     },
     architecture: [  "microservices", "Single page applications"],
