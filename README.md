@@ -10,11 +10,11 @@
 
 ```javascript
 const Jo = {
-    pronouns: "He" | "Him",
+
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nest, php"],
-        fronEnd: ["react", "jquery"],
+        backEnd: ["node, php"],
+        fronEnd: ["react"],
         database: ["mySql", "sequelize"],
         misc: ["css3", "javascript",  "Firebase"]
     },
